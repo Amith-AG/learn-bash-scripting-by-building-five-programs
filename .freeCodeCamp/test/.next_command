@@ -144,3 +144,4 @@ help if
 __vsc_prompt_cmd_original
 ./countdown.sh arg
 ./countdown.sh arg
+./countdown.sh 4
