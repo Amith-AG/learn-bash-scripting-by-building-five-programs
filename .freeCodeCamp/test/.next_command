@@ -186,3 +186,4 @@ help [[
 ./countdown.sh 5
 ./countdown.sh -3
 help
+./countdown.sh 10
