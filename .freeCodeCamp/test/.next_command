@@ -192,3 +192,6 @@ ls --color=auto /
 ls --color=auto -l
 ls --color=auto -l
 ls --color=auto /bin
+ls --color=auto /bin/sleep
+main sleep
+man sleep
