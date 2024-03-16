@@ -166,3 +166,4 @@ echo $?
 [[ 10 -ne 5 ]]
 dadfd
 bad_command
+ls --color=auto
