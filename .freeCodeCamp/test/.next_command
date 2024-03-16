@@ -172,3 +172,6 @@ ls --color=auto -y
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 help test
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ -a countdown.sh ]]
