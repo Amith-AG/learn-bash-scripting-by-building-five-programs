@@ -185,3 +185,4 @@ help [[
 ./countdown.sh 1
 ./countdown.sh 5
 ./countdown.sh -3
+help
