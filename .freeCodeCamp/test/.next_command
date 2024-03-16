@@ -139,3 +139,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 --help
 help
 man if
+help if
