@@ -80,3 +80,4 @@ man echo
 man echo
 ./questionnaire.sh
 touch countdown.sh
+chmod +x countdown.sh
