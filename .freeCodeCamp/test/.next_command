@@ -148,3 +148,7 @@ __vsc_prompt_cmd_original
 ./countdown.sh 6
 ./countdown.sh 5
 help
+help if
+help
+__vsc_prompt_cmd_original
+help [[ expression ]]
