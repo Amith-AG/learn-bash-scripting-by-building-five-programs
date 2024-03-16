@@ -248,3 +248,4 @@ help for
 ./countdown.sh 1
 ./countdown.sh 5
 ./countdown.sh 5
+touch bingo.sh
