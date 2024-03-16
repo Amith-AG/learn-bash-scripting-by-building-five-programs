@@ -169,3 +169,6 @@ bad_command
 ls --color=auto
 ls --color=auto -y
 ls --color=auto -y
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+help test
