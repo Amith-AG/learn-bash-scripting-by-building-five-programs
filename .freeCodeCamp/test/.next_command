@@ -181,3 +181,5 @@ help test
 help [[
 [[ -x countdown.sh && 5 -le 4 ]]
 [[ -x countdown.sh || 5 -le 4 ]]
+./countdown.sh
+./countdown.sh 1
