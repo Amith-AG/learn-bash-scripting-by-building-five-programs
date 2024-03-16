@@ -164,3 +164,5 @@ echo $?
 [[ 4 -ge 5 ]]
 [[ 10 -ge 5 ]]
 [[ 10 -ne 5 ]]
+dadfd
+bad_command
