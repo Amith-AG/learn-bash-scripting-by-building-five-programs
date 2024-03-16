@@ -179,3 +179,4 @@ __vsc_prompt_cmd_original
 help test
 [[ -x countdown.sh ]]
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
