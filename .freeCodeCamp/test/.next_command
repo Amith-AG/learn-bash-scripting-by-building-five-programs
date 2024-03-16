@@ -159,3 +159,4 @@ echo $
 echo $?
 [[ 4 -le 5 ]]
 echo $?
+[[ 4 -ge 5 ]]
