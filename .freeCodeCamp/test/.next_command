@@ -292,3 +292,5 @@ i=0
 I=0
 echo I
 echo $I
+__vsc_prompt_cmd_original
+(( I++ ))
