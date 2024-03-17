@@ -391,3 +391,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 (( 5<6 ))
 touch furtune.sh
 touch fortune.sh
+chmod +x fortune.sh
