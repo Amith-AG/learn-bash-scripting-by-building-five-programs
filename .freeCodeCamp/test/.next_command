@@ -290,3 +290,5 @@ I=0
 I=0
 i=0
 I=0
+echo I
+echo $I
