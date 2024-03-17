@@ -12,5 +12,8 @@ echo -e "$TEXT B:$NUMBER"
 elif [[ $NUMBER -le 30 ]]
 then
 echo -e "$TEXT I:$NUMBER"
+elif (( $NUMBER < 46 ))
+then 
+echo -e "$TEXT N:$NUMBER"
 fi
 
