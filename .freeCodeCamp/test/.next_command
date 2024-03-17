@@ -319,3 +319,4 @@ declare K
 declare -p J
 declare -p K
 declare -p RANDOM
+echo $(( RANDOM%75 ))
