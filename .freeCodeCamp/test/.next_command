@@ -388,3 +388,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+(( 5<6 ))
+touch furtune.sh
+touch fortune.sh
