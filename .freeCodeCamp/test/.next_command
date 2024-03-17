@@ -511,3 +511,12 @@ help menu
 help
 hep until
 help until
+help [[
+__vsc_prompt_cmd_original
+[[ 5 -ne 6 ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+help test
+[[ 5 -eq 6 ]]
+./forturn.sh
+./fortune.sh
