@@ -297,3 +297,5 @@ __vsc_prompt_cmd_original
 echo I
 echo $I
 help let
+(( I+10 ))
+(( I+=10 ))
