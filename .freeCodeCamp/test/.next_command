@@ -478,3 +478,4 @@ __vsc_prompt_cmd_original
 help
 man function
 help function
+./fortune.sh
