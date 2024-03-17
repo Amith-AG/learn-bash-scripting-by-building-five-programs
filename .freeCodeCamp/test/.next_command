@@ -317,3 +317,5 @@ echo $K
 declare -p
 declare K
 declare -p J
+declare -p K
+declare -p RANDOM
