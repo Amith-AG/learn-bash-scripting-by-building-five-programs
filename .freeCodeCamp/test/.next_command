@@ -436,3 +436,7 @@ echo @ARR[]
 echo @{ARR[]}
 echo @[ARR[]]
 echo ${ARR[@]}
+declare -p
+__vsc_prompt_cmd_original
+declare ARR -p
+declare -p ARR
