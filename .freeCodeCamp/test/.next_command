@@ -312,3 +312,8 @@ echo $J
 echo $(( J*5 + 25 ))
 echo $J
 declare -p
+K=$(( J *10 ))
+echo $K
+declare -p
+declare K
+declare -p J
