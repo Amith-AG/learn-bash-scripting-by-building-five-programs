@@ -307,3 +307,5 @@ echo $I
 $(( I-6 ))
 j=$(( I-6 ))
 J=$(( I-6 ))
+echo J
+echo $J
