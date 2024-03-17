@@ -18,5 +18,7 @@ echo -e "$TEXT N:$NUMBER"
 elif [[ $NUMBER -lt 61 ]]
 then
 echo -e "$TEXT G:$NUMBER"
+else
+ echo $TEXT O:$NUMBER
 fi
 
