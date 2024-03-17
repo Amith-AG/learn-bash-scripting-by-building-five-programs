@@ -320,3 +320,6 @@ declare -p J
 declare -p K
 declare -p RANDOM
 echo $(( RANDOM%75 ))
+echo $(( RANDOM%76 ))
+echo $(( RANDOM%76 )) + 1
+echo $(( RANDOM%75 +1 ))
