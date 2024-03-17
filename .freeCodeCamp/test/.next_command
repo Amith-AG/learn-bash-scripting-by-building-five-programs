@@ -443,3 +443,35 @@ declare -p ARR
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+__vsc_prompt_cmd_original
+./fortune.sh
+./fortune.sh
+help RANDOM
+help RANDOM
+help RADOM
+help Random
+ls --color=auto /bin
+ls --color=auto /bin/bash
+ls --color=auto /bin
+declare -p random
+declare -p Random
+declare -p RANDOM
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+__vsc_prompt_cmd_original
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
