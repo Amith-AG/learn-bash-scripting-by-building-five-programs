@@ -554,3 +554,9 @@ help [[ expression ]]
 [[ "hello world" =~ ^h ]]
 [[ "hello world" =~ ^h+d$ ]]
 [[ "hello world" =~ ^h.+d$ ]]
+VAR = "hello world"
+VAR = "hello world"
+VAR = "hello world"
+VAR = -e "hello world"
+VAR ="hello world"
+VAR="hello world"
