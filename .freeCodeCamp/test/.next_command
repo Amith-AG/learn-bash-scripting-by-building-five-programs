@@ -584,3 +584,10 @@ clear
 ./five.sh
 help
 help type
+echo -a
+echo -a ./five.sh
+help type
+-a echo
+help type
+type [ -a echo ]
+type echo
