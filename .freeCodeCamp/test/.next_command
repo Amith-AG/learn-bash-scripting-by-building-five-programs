@@ -560,3 +560,4 @@ VAR = "hello world"
 VAR = -e "hello world"
 VAR ="hello world"
 VAR="hello world"
+echo $VAR
