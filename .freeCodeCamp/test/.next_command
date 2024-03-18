@@ -591,3 +591,4 @@ help type
 help type
 type [ -a echo ]
 type echo
+type read
