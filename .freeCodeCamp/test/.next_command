@@ -572,3 +572,4 @@ $[[ VAR == "hello world" ]]
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
